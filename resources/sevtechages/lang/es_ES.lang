@@ -2,12 +2,12 @@
 ###### SevTech: Ages Custom Advancements ######
 ###############################################
 # Stage 0
-advancements.stage0.abyssalbiome.title=Entrando a las Darklanks
+advancements.stage0.abyssalbiome.title=Entrando a las DarkLands
 advancements.stage0.abyssalbiome.description=Busca y entra al bioma oscuro del Abyssalcraft. Estos biomas existen en zonas frías del mundo. El mundo esta configurado para que las zonas calientes y frías se distribuyan de norte a sur.
 
 
 advancements.stage0.abyssalgem.title=Gemas Oscuras
-advancements.stage0.abyssalgem.description=Adquiere una Shadow Gem de las criaturas oscuras que residen en las darklands. Las criaturas más pequeñas dan gemas incompletas, las criaturas más peligrosas dan gemas completas
+advancements.stage0.abyssalgem.description=Adquiere una Gema Oscura de las criaturas oscuras que residen en las DarkLands. Las criaturas más pequeñas dan gemas incompletas, las criaturas más peligrosas dan gemas completas
 
 
 advancements.stage0.atlas.title=Perdido, pero no solo
@@ -19,7 +19,7 @@ advancements.stage0.baykok.description=Invoca al boss Baykok a través de una ce
 
 
 advancements.stage0.buffalo.title=Animales del Pasado
-advancements.stage0.buffalo.description=El buffalo provee de valosios recursos a los cazadores. Usa una ceremonia del totemic para conseguir. Colecciona sus dientes o su cuero. Consulta la Totempedia para más información.
+advancements.stage0.buffalo.description=El buffalo provee de valiosos recursos a los cazadores. Usa una ceremonia del totemic para conseguir. Colecciona sus dientes o su cuero. Consulta la Totempedia para más información.
 
 
 advancements.stage0.charcoal.title=Forzando a la Suerte
@@ -47,11 +47,11 @@ advancements.stage0.fiber.description=Para empezar en esta era, necesitas recole
 
 
 advancements.stage0.fire.title=YO HE CREADO FUEGO
-advancements.stage0.fire.description=Sostiene dos palos de fuego en la mano y haz click derecho en el suelo para crear fuego!
+advancements.stage0.fire.description=Sostiene dos palos de fuego en la mano y haz click derecho en el suelo para ¡crear fuego!
 
 
 advancements.stage0.firepit.title=¡Fuego!
-advancements.stage0.firepit.description=Use some rocks, twine, and sticks to make a fire pit. Use typical fuel items to light it and insert items to be cooked
+advancements.stage0.firepit.description=Usa algunas rocas, plant twine, y palos para hacer un fire pit. Usa items que sirvan de combustible para generar luz e inserta items para cocinarlos.
 
 
 advancements.stage0.firstbreak.title=Caveman Hate Tree!
