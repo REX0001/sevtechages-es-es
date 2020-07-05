@@ -3,7 +3,7 @@
 ###############################################
 # Stage 0
 advancements.stage0.abyssalbiome.title=Entrando a las DarkLands
-advancements.stage0.abyssalbiome.description=Busca y entra al bioma oscuro del Abyssalcraft. Estos biomas existen en zonas frías del mundo. El mundo esta configurado para que las zonas calientes y frías se distribuyan de norte a sur.
+advancements.stage0.abyssalbiome.description=Busca y entra al bioma oscuro del AbyssalCraft. Estos biomas existen en zonas frías del mundo. El mundo esta configurado para que las zonas calientes y frías se distribuyan de norte a sur.
 
 
 advancements.stage0.abyssalgem.title=Gemas Oscuras
@@ -11,7 +11,7 @@ advancements.stage0.abyssalgem.description=Adquiere una Gema Oscura de las criat
 
 
 advancements.stage0.atlas.title=Perdido, pero no solo
-advancements.stage0.atlas.description=Comercia con un aldeano cartografo o librera para conseguir el mapa llamado "Antique Atlas"
+advancements.stage0.atlas.description=Comercia con un aldeano cartografo o librero para conseguir el mapa llamado "Antique Atlas"
 
 
 advancements.stage0.baykok.title=Espeluznante Batalla con el Boss
@@ -19,7 +19,7 @@ advancements.stage0.baykok.description=Invoca al boss Baykok a través de una ce
 
 
 advancements.stage0.buffalo.title=Animales del Pasado
-advancements.stage0.buffalo.description=El buffalo provee de valiosos recursos a los cazadores. Usa una ceremonia del totemic para conseguir. Colecciona sus dientes o su cuero. Consulta la Totempedia para más información.
+advancements.stage0.buffalo.description=El buffalo provee de valiosos recursos a los cazadores. Usa una ceremonia del totemic para conseguirlo. Colecciona sus dientes o su cuero. Consulta la Totempedia para más información.
 
 
 advancements.stage0.charcoal.title=Forzando a la Suerte
@@ -39,7 +39,7 @@ advancements.stage0.farmland.description=Aprende los detalles básicos de las co
 
 
 advancements.stage0.fertility.title=Rito de Primavera
-advancements.stage0.fertility.description=Cuando realizas el rito de primavera, los animales cercanos empezaran a procrear, pero solo si dejas un poco de comida cerca del totem.
+advancements.stage0.fertility.description=Cuando realizas el Rito de Primavera, los animales cercanos empezaran a procrear, pero solo si dejas un poco de comida cerca del totem.
 
 
 advancements.stage0.fiber.title=Dieta Rica en Fibra
@@ -51,7 +51,7 @@ advancements.stage0.fire.description=Sostiene dos palos de fuego en la mano y ha
 
 
 advancements.stage0.firepit.title=¡Fuego!
-advancements.stage0.firepit.description=Usa algunas rocas, plant twine, y palos para hacer un fire pit. Usa items que sirvan de combustible para generar luz e inserta items para cocinarlos.
+advancements.stage0.firepit.description=Usa algunas rocas, Plant Twine, y palos para hacer un Fire Pit. Usa items que sirvan de combustible para generar luz e inserta items para cocinarlos.
 
 
 advancements.stage0.firstbreak.title=¡Cavernícola odiar árbol!
@@ -87,19 +87,19 @@ advancements.stage0.gear.description=¡Usa el conocimiento de la rueda para hace
 
 
 advancements.stage0.grill.title=¡Parrilla Caliente!
-advancements.stage0.grill.description=Actualiza tu firepit con algo un poco más rallado. El grill necesita una fuente de calor que genere fuego debajo de el para poder cocinar.
+advancements.stage0.grill.description=Actualiza tu Fire Pit con algo un poco más rallado. El grill necesita una fuente de calor que genere fuego debajo de el para poder cocinar.
 
 
 advancements.stage0.handgrind.title=Grindealo
-advancements.stage0.handgrind.description=La Hand Grindstone no es rápida de ninguna manera, pero te permitira moler objetos
+advancements.stage0.handgrind.description=La Grindstone no es rápida de ninguna manera, pero te permitira moler objetos
 
 
 advancements.stage0.horsechopper.title=¡Tala! ¡Tala! ¡Tala!
-advancements.stage0.horsechopper.description=¡No más tala de madera a mano! Coloca un Horse Power Chopper, amarra un caballo con una cuerda a él, y inserta items para que sean talados automáticamente.
+advancements.stage0.horsechopper.description=¡No más tala de madera a mano! Coloca un Horse Chopping Block, amarra un caballo con una cuerda a él, y inserta items para que sean talados automáticamente.
 
 
 advancements.stage0.horsepower.title=¡Caballos de Fuerza!
-advancements.stage0.horsepower.description=Fábrica un Horse Power Grindstone y atalo a un caballo para empezar a moler automáticamente. Aparte de Caballos puedes usar Loros, Buffalos, Cerdos, Vacas, Llamas, y Lobos
+advancements.stage0.horsepower.description=Fábrica un Horse Grindstone y atalo a un caballo para empezar a moler automáticamente. Aparte de Caballos puedes usar Loros, Buffalos, Cerdos, Vacas, Llamas, y Lobos
 
 
 advancements.stage0.kiln.title=Cocinalo
@@ -135,7 +135,7 @@ advancements.stage0.mesh.description=El pedernal no aparece después de romper g
 
 
 advancements.stage0.mill.title=Deja de dar Vueltas Alrededor
-advancements.stage0.mill.description=Es hora de usar el Miller. Fábrica la Millstone del Better With Mods
+advancements.stage0.mill.description=Es hora de usar el Molino. Fábrica la Muela de Molina del Better With Mods
 
 
 advancements.stage0.naturescompass.title=¡Oye!, ¿Donde esta mi bioma?
@@ -187,11 +187,11 @@ advancements.stage0.weaponize.description=Da clic derecho a un hueso en un bloqu
 
 
 advancements.stage0.wheel.title=Las ruedas en el bus
-advancements.stage0.wheel.description=Fábrica la rueda de Astikoor para usar carros de caballos. Usa la tecla de acción de Astikoor para amarrar caballos a los carros
+advancements.stage0.wheel.description=Fábrica una Rueda para usar carros de caballos. Usa la tecla de acción de Astikoor para amarrar caballos a los carros
 
 
 advancements.stage0.woodenbarrel.title=Barril de Vadis
-advancements.stage0.woodenbarrel.description=Fábrica un Wooden Barrel del Primal Core para almacenar liquidos
+advancements.stage0.woodenbarrel.description=Fábrica un Barrel del Primal Core para almacenar liquidos
 
 
 advancements.stage0.woodhopper1.title=Tenlo en tu camino
