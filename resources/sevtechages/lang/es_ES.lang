@@ -211,160 +211,160 @@ advancements.stage0.workstump.description=¡No tienes mesas de crafteo aún! Usa
 
 
 # Stage 1
-advancements.stage1.alloykiln.title=All Mixed Up
-advancements.stage1.alloykiln.description=Build the Alloy Kiln from Immersive Engineering to create bronze. You'll need 8 Kiln bricks in a 2x2x2 and Right-Click with the Engineer's Hammer to create the structure
+advancements.stage1.alloykiln.title=Todo Revuelto
+advancements.stage1.alloykiln.description=Construye los Ladrillos de Horno del Immersive Engineering para crear bronce. Necesitaras colacar 8 ladrillos de horno dispuestos en un 2x2x2 y luego darle click derecho con el Martillo de Ingeniero para crear la estrucutura
 
 
-advancements.stage1.aquamarine.title=The Search for Aquamarine
-advancements.stage1.aquamarine.description=Travel to the Beneath Dimension and search the top of the caves for Aquamarine ore
+advancements.stage1.aquamarine.title=La Busqueda de Aquamarine
+advancements.stage1.aquamarine.description=Viaja a la dimensión Beneath y busca en la parte superior de las cuevas una mena de Aquamarine
 
 
-advancements.stage1.aqueduct.title=Aqueducts
-advancements.stage1.aqueduct.description=Move water using Aqueducts by creating a channel with the aqueduct on the bottom and any block on the sides creating a V shape. Note, This advancement requires that you place the block to complete
+advancements.stage1.aqueduct.title=Acueductos
+advancements.stage1.aqueduct.description=Mueve el agua usando Aqueducts al crear un canal con el Aqueduct en el fondo y cualquier bloque en los lados creando una forma de V. Nota, Este logro requiere que coloques el bloque para completarse
 
 
-advancements.stage1.astable.title=Link to the Stars
-advancements.stage1.astable.description=Complete the ritual to transform a crafting table into the Luminous Crafting Table
+advancements.stage1.astable.title=Una Conección con las estrellas
+advancements.stage1.astable.description=Completa el ritual para tranformar una mesa de crafteo en una Luminous Crafting Table
 
 
-advancements.stage1.axle.title=Axle F
-advancements.stage1.axle.description=Mechanical Power needs to be routed using an Axle. You can connect them directly to Waterwheels and Wind Mills or Gearboxes. You can have no more than 3 Axles between each Gearbox or Source
+advancements.stage1.axle.title=Eje F
+advancements.stage1.axle.description=El Poder Mecánico necesita ser enrutado con un Eje. Puedes conectarlo directamente a las Ruedas de Agua a los Molinos de Viento o a las Cajas de Cambio. No puedes tener más de 3 ejes entre cada fuente de movimiento
 
 
-advancements.stage1.beneath.title=The Beneath
-advancements.stage1.beneath.description=Use an Abyssalcraft Ritual to create the Beneath teleporter. Remember to have P.E. in your Necronomicon before starting a ritual. Place the Beneath Teleporter and enter the dimension
+advancements.stage1.beneath.title=Él Beneath
+advancements.stage1.beneath.description=Usa un Ritual del Abyssalcraft para crear un Beneath Teleporter. Recuerda tener P.E. en tu Necronomicon antes de iniciar un ritual. Coloca el Beneath Teleporter y entra a la dimensión
 
 
-advancements.stage1.blackquartz.title=Par for the Quartz
-advancements.stage1.blackquartz.description=Travel to the bottom of the Beneath dimension to find Black Quartz
+advancements.stage1.blackquartz.title=Par por Cuarzo
+advancements.stage1.blackquartz.description=Viaja al fondo de la dimensión Beneath para encontrar Black Quartz
 
 
-advancements.stage1.bloodaltar.title=Altered State
-advancements.stage1.bloodaltar.description=Capture Demonic Will to build a Blood Altar
+advancements.stage1.bloodaltar.title=Estado Alterado
+advancements.stage1.bloodaltar.description=Captura al Demonic Will para construir el Blood Altar
 
 
-advancements.stage1.bronze.title=Brains Over Bronze
-advancements.stage1.bronze.description=Use the Alloy Kiln to produce Bronze Ingots
+advancements.stage1.bronze.title=Cerebro sobre Bronce
+advancements.stage1.bronze.description=Usa el Alloy Kiln creado con los ladrillos de horno para producir lingotes de bronce
 
 
-advancements.stage1.bucket.title=Bucket List
-advancements.stage1.bucket.description=Use the Turntable to shape a clay bucket and cook it in the Kiln
+advancements.stage1.bucket.title=Lista de Deseos
+advancements.stage1.bucket.description=Usa la mesa de alfarero para dar forma un Clay Bucket y cocinalo en el Kiln
 
 
-advancements.stage1.cart.title=Love and Carriage
-advancements.stage1.cart.description=Portable storage? Easy mob transportation? Astikor has you covered! Craft a Cart and access its inventory by shift-right clicking, or craft a Transportation Cart to move mobs quickly!
+advancements.stage1.cart.title=Amor y Carruaje
+advancements.stage1.cart.description=¿Almacenaje portable? ¿Transporte fácil de mobs? ¡Astikor cubre tus necesidades! Fábrica una Carreta y accede a su inventario agachandote y dando click derecho, o ¡fábrica una Carreta de Transporte para mover mobs rápidamente!
 
 
-advancements.stage1.chest.title=I Need to Get This Off My Chest
-advancements.stage1.chest.description=Upgrade your chest
+advancements.stage1.chest.title=Necesito Sacar esto de mi Pecho
+advancements.stage1.chest.description=Actualiza tu cofre
 
 
-advancements.stage1.claybarrel.title=Bottom of the Barrel
-advancements.stage1.claybarrel.description=Clay barrels can hold fluids, such as water or liquid metals
+advancements.stage1.claybarrel.title=El Fondo del Barril
+advancements.stage1.claybarrel.description=Los barriles de clay pueden sostener liquido, como agua o metales liquidos
 
 
-advancements.stage1.coal.title=Locate and mine coal
-advancements.stage1.coal.description=Find a Coal surface sample and dig for Coal! The ore is located between Y28 and Y78. Note, surface samples will unhide in already explored areas.
+advancements.stage1.coal.title=Busca y mina Carbón
+advancements.stage1.coal.description=¡Busca una muestra de carbón superficial y escavalo para obtener Carbón! La mena esta localizada entre las capas 28 y 78. Nota, las muestras superficiales pueden encontrarse en areas ya exploradas.
 
 
-advancements.stage1.copper.title=Get To The Copper
-advancements.stage1.copper.description=Find a Malachite or Azurite surface sample and dig for Copper! The ore is located between Y12 and Y52. Note, surface samples will unhide in already explored areas.
+advancements.stage1.copper.title=Llega al Cobre
+advancements.stage1.copper.description=¡Busca muestras superficiales de Malachite o Azurite y cavalas para conseguir Cobre! Esta mena esta localizada en la capa 12 a la 52. Nota, las muestras superficiales pueden ser encontradas en areas ya exploradas.
 
 
-advancements.stage1.crafting.title=Upgrade your crafting
-advancements.stage1.crafting.description=Craft a regular table
+advancements.stage1.crafting.title=Actualizando tu Fabricación
+advancements.stage1.crafting.description=Fábrica una mesa de crafteo normal
 
 
-advancements.stage1.dung.title=Pipe Me Up Inside
-advancements.stage1.dung.description=Use a Dung Pipe to pull items out of a block or use a Sewer Pipe to pull through solid block
+advancements.stage1.dung.title=Entubame por Dentro
+advancements.stage1.dung.description=Usa una Dung Pipe para sacar items de un bloque o usa una Sewer Pipe para atravesar con items un bloque solido
 
 
-advancements.stage1.extension.title=Extensions
-advancements.stage1.extension.description=Craft a Barrel Extension and place it on top of a Barrel to increase the amount of liquid it can hold
+advancements.stage1.extension.title=Extensiones
+advancements.stage1.extension.description=Fábrica una Barrel Extension y coloca sobre un barril para incrementar la cantidad de liquido que puede almacenar
 
 
-advancements.stage1.furnace.title=It's Getting Hot in Here
-advancements.stage1.furnace.description=Light up your life with a new furnace
+advancements.stage1.furnace.title=Se Esta Poniendo Caliente Aquí
+advancements.stage1.furnace.description=Ilumina tu vida con un nuevo horno
 
 
-advancements.stage1.gearbox.title=Grinding Your Gears
-advancements.stage1.gearbox.description=The Gearbox allows you to extend the reach of your Mechanical Power, Shift+Right Click a side to move the input/outputs. A powered Axle must go into the side with a cross on it
+advancements.stage1.gearbox.title=Moliendo tus Engranajes
+advancements.stage1.gearbox.description=La Caja de Cambios te permite extender tu Poder Mecánico,dando click derecho al agacharte en un lado movera las entradas y salidas. Un Eje con más poder debe ir en un latera con una cruz en él
 
 
-advancements.stage1.hoe.title=Can We Hoe It?!
-advancements.stage1.hoe.description=Craft a Hoe to begin farming more efficiently
+advancements.stage1.hoe.title=¡¿Los Podemos Azotar?!
+advancements.stage1.hoe.description=Fábrica una azada para cultivar más eficientemente
 
 
-advancements.stage1.huntingdim.title=Hunt or be Hunted
-advancements.stage1.huntingdim.description=If you need to find hostile mobs, use the Hunting Dimension. Craft the portal frame just like you would the Nether Portal, light it using a Vanilla Sword and sneak in the portal to enter
+advancements.stage1.huntingdim.title=Cazador o Cazado
+advancements.stage1.huntingdim.description=Si necesitas encontrar mobs hostiles, usa la Dimensión de Caza. Fabríca un portal como lo harías con un Portal del Nether, iluminalo usando una Espada Vanilla y agachate en el portal para entrar
 
 
-advancements.stage1.journal.title=This Is Going in My Diary
-advancements.stage1.journal.description=Access the knowledge of the stars by crafting the Astral Sorcery Journal. Note, the Astral Sorcery Shrines do not exist in the world. Recipes have been altered to account for this
+advancements.stage1.journal.title=Esto va en mi Diario
+advancements.stage1.journal.description=Accede al conocimiento de las estrellas fábricando el Astral Sorcery Journal. Nota, los santuarios del Astral Sorcery no existen en el mundo. Las recetas han sido alteradas por esto
 
 
-advancements.stage1.leafbed.title=Crunchy Pillows
-advancements.stage1.leafbed.description=Is your current sleeping situation not good enough? Throw some leaves on top of hay to make a Leaf Bed!
+advancements.stage1.leafbed.title=Almahodas Crujientes
+advancements.stage1.leafbed.description=¿Tu situación para dormir no es la mejor? ¡Deja algunas hojas sobre heno para hacer una Leaf Bed!
 
 
 advancements.stage1.necro.title=Abyssalcrafted
-advancements.stage1.necro.description=Craft the Necronomicon to guide you through Abyssalcraft
+advancements.stage1.necro.description=Fábrica el Necronomicon para guiarte a través del Abyssalcraft
 
 
-advancements.stage1.parchment.title=Something to Write On
-advancements.stage1.parchment.description=Begin keeping records of your knowledge on Parchment. It requires the bark from Mulberry trees which spawn out in the world
+advancements.stage1.parchment.title=Algo Sobre lo que Escribir
+advancements.stage1.parchment.description=Empieza a guardar tus conocimientos en un Parchment. Requiere corteza de los arboles de Mulberry trees que aparecen por el mundo
 
 
-advancements.stage1.parrot.title=I Can't Find a Jungle?!
-advancements.stage1.parrot.description=Consult the Necromicon Normal Rituals section to discover how to summon a Parrot and tame it using seeds to complete the Advancement. Or just go find a Jungle
+advancements.stage1.parrot.title=¡¿Puedo encontrar una junglar?!
+advancements.stage1.parrot.description=Consulta el Necromicon en la sección de rituales normales para descubrir la manera de invocar un loro que podrás domesticar con semillas para conseguir el logro. O si no ve y busca una jungla
 
 
-advancements.stage1.pedestal.title=Pedestalling for Time
-advancements.stage1.pedestal.description=To charge your Necronomicon you can either stand in range of Statues holding the book, or craft a Pedestal to place the book on. Make sure the statues are 3 blocks from the Pedestal and at the same height
+advancements.stage1.pedestal.title=Pedesteando el Tiempo
+advancements.stage1.pedestal.description=Para cargar tu Necronomicon puedes estar en el rango de las estatuas sosteniendo el libro, o puedes fábricar un pedestal que sostenga el libro por ti. Asegurate que las estatuas esten a al menos 3 bloques del pedestal y que esten a la misma altura que él
 
 
-advancements.stage1.plumbline.title=Plumbing the Depths
-advancements.stage1.plumbline.description=Use the Plumb Line to discover your Y level
+advancements.stage1.plumbline.title=Sondeando las Profundidades
+advancements.stage1.plumbline.description=Usa la Plomada para descubrir en que altura estas
 
 
-advancements.stage1.prospector.title=Prospecting
-advancements.stage1.prospector.description=Craft a Weak Dowsing Rod to help you locate ore
+advancements.stage1.prospector.title=Prospección
+advancements.stage1.prospector.description=Fábrica una Weak Dowsing Rod para ayudarte a localizar menas
 
 
-advancements.stage1.root.title=Welcome to Age 1
-advancements.stage1.root.description=Welcome to the next age! Blocks previously hidden will now become visible, such as ore samples and others
+advancements.stage1.root.title=Bienvenido a la Era 1
+advancements.stage1.root.description=¡Bienvenido a la nueva Era! Bloques que aparecían ocultos a tus ojos ahora seran visibles, como muestras de minerales y otros
 
 
-advancements.stage1.statue.title=Abyssal Trophy Case
-advancements.stage1.statue.description=To perform dark rituals you will need to collect statues to power your Necronomicon. Find a Shoggoth Lair in the Swamp and River biomes. After 6 or more spawn they will eventually erect a Monolith with a statue on top. Or, craft a statue using the Shoggoth Flesh. Consult the Necronomicon for more information
+advancements.stage1.statue.title=Estuche de Trofeo Abisal
+advancements.stage1.statue.description=Para realizar rituales oscuros necesitas coleccionar estatuas que daran poder a tu Necronomicon. Busca un habitad de Shoggoth en el pantano o los biomas de ría. Luego de 6 o más monstruos aparecidos ellos liberaran un monolito con una estatua en la parte superior. O si no, fábrica una estatua usando la carne del Shoggoth. Consulta el Necronomicon para más información
 
 
-advancements.stage1.stepup.title=I Don't Want it Anymore!
-advancements.stage1.stepup.description=Now that you are traveling less, you can use the Blood Altar to create an Apple of Lofty Stature which will remove your step-up abilities.
+advancements.stage1.stepup.title=¡No lo Quiero para Nada Más!
+advancements.stage1.stepup.description=Ahora que viajas menos, puedes usar el Blood Altar para crear una Apple of Lofty Stature que removera tus habiliades para escalar
 
 
 advancements.stage1.stoneanvil.title=Anvil Lavigne
-advancements.stage1.stoneanvil.description=Need plates? Smash some ingots with a mallet on the Stone Anvil
+advancements.stage1.stoneanvil.description=¿Necesitas Plates? Golpea algunos lingotes con el mallet en el Yunque de Piedra
 
 
-advancements.stage1.tchannel.title=Follow My Channel Plz
-advancements.stage1.tchannel.description=A Channel is a great way to transport liquids from tanks and other sources. When placing down the Channel, follow the arrow on top and Right Click to change directions/disconnect/etc. Pour liquids onto the channel using a normal or porcelain Faucet
+advancements.stage1.tchannel.title=Sigueme en Mi Canal PLS
+advancements.stage1.tchannel.description=Un Channel es una buena manera de traportar liquidos de tanques y otras fuentes. Cuando colocas el Channel abajo, sigue la flecha en la parte superior y dale clic derecho para cambiar la dirección/desconectar/etc. Vierte liquidos en el Channel usando un Fauce normal o de porcelana
 
 
-advancements.stage1.tin.title=Error 404: Heart Not Found
-advancements.stage1.tin.description=Find a Cassiterite or Teallite surface sample and dig for Tin! The ore is located between Y8 and Y68. Note, surface samples will unhide in already explored areas.
+advancements.stage1.tin.title=Error 404: Corazón no Encontrado
+advancements.stage1.tin.description=¡Busca muestras superficiales de Cassiterite o Teallite y cavalas para conseguir Estaño! Esta mena esta ubicada entre la capa 8 y la 68. Nota, muestras superficiales pueden ser encontradas en zonas exploradas
 
 
-advancements.stage1.turntable.title=Turning the Tables
-advancements.stage1.turntable.description=Craft a Turntable, connect the bottom with Mechanical Power, and place a block on top to begin shaping
+advancements.stage1.turntable.title=Volteando las Tablas
+advancements.stage1.turntable.description=Fábrica un Torno de Alfarero, para conectar debajo del Poder Mecánico, y coloca un bloque encima para empezar a dar forma
 
 
-advancements.stage1.waterwheel.title=Water We Doing
-advancements.stage1.waterwheel.description=Getting started in Mechanical Power will require a source such as the Better With Mods Waterwheel
+advancements.stage1.waterwheel.title=Aguas que Hacemos
+advancements.stage1.waterwheel.description=Empezar a manejar el Poder Mecánico requerira de una fuente como la Rueda de Agua del Better With Mods
 
 
-advancements.stage1.woodbasin.title=Stirring the Pot
-advancements.stage1.woodbasin.description=Looking for a more efficient way to make leather or dough? Craft the Wooden Basin, fill it with the correct liquid and items, then stir!
+advancements.stage1.woodbasin.title=Revolviendo la Olla
+advancements.stage1.woodbasin.description=¿Buscas una forma más eficiente de hacer cuero o dough? Fábrica el Wooden Basin, llenalo con el liquido e items correctos, luego ¡revuelve!
 
 
 # Stage 2
@@ -1026,31 +1026,31 @@ advancements.stage5.wirelesscharger.description=The Wireless Charger is a conven
 ###############################################
 ########## SevTech: Ages Custom Tips ##########
 ###############################################
-mods.tips.tips.1=Water is only infinite in River and Ocean biomes.
-mods.tips.tips.2=The world generates in a logical heat map. Need snow or a desert? Travel North or South until you find it!
-mods.tips.tips.3=While walking, your player will change position.
-mods.tips.tips.4=WAILA is already installed, you just need to unlock it!
-mods.tips.tips.5=SevTech has map mods! You don't have to add your own!
-mods.tips.tips.6=Ore Excavation is in the pack. You'll need to discover and unlock it.
-mods.tips.tips.7=The Advancement page will lead you through the pack. You can find it in the escape menu or by pressing "L" (default).
-mods.tips.tips.8=The carrot in your inventory is where you can view your nutrition levels. If you raise the nutrition levels high enough you will get buffs. Let them drop too low and you'll have debuffs.
-mods.tips.tips.9=New items are revealed as you unlock new stages!
-mods.tips.tips.10=Ores are hidden until you unlock them via new stages.
-mods.tips.tips.11=Can't figure out how to get an item? Check JEI. It may have your answer.
-mods.tips.tips.12=You can move faster on certain blocks like Grass Paths.
-mods.tips.tips.13=The Ore is setup in large veins. Locate the chunk a vein is in by finding a Sample on the surface.
-mods.tips.tips.14=Use F7 to see the light levels on the ground and F9 to see the chunk borders.
-mods.tips.tips.15=Want to get to the next stage? Follow the Advancements.
-mods.tips.tips.16=Dimensions can only be entered when you unlock them via new stages.
-mods.tips.tips.17=Some blocks are disguised as other blocks. They are revealed in the correct stage. Always go back and check out areas you've already explored to see what's new.
-mods.tips.tips.18=Ore doubling is available later on in the Industrial stage.
-mods.tips.tips.19=Make sure to let Glen out of your park so he can eat and sleep.
-mods.tips.tips.20=All enemies do not appear at the beginning of the pack. Some will only spawn later on.
-mods.tips.tips.21=Need to locate an ore vein in a chunk? Use items from the Prospectors mod.
-mods.tips.tips.22=Coordinates in the F3 screen are not available. Unlock and use Info Accessories to see this information or use markers in the world to find your way.
-mods.tips.tips.23=If you die a Death Compass will spawn in your inventory this will point you to the direction of your grave.
-mods.tips.tips.24=Shift/Sneak on your grave to retrieve your items.
-mods.tips.tips.25=Rafts are an earlier form of water transportation. They are just a bit weaker and slower.
-mods.tips.tips.26=Morney cheese sauce (makes 1 gal); 2qt whole milk; 2 qts heavy cream; roux (250g butter/250g flour); sachet (bay, peppercorns, thyme); dijon (to taste); shredded comte cheese (lots/to taste); bring milk/cream/sachet to a boil (remove sachet) then reduce heat to simmer add roux (should be blonde) and whisk until absorbed add dijon and shredded cheese to taste
-mods.tips.tips.27=Holding the Drawer Key in your off-hand will automatically lock a newly placed Storage Drawer
-mods.tips.tips.28=Try not to let horsepower leads cross chunk borders
+mods.tips.tips.1=El agua es solo infinita en ríos y oceanos.
+mods.tips.tips.2=El mundo se genera con la lógica de un mapa de calor. ¿Necesitas nieve o un desierto? ¡Viaja al Norte o al Sur hasta que lo encuentres!
+mods.tips.tips.3=Mientras caminas, tu jugador cambia de posición.
+mods.tips.tips.4=WAILA ya esta instalado, solo necesitas desbloquearlo!
+mods.tips.tips.5=¡SevTech tiene mods de mapas! ¡No hay necesidad de que añades uno por tu cuenta!
+mods.tips.tips.6=La minería de menas esta en el pack de mods. Solo necesitas descubrirla y desbloquearla.
+mods.tips.tips.7=La página de logros te guíara en el pack. La puedes encontrar en el menu o al presionar la letra "L" (por defecto).
+mods.tips.tips.8=La zanahoria en tu inventario te permite ver tus niveles de nutrición. Si elevas tus niveles de nutrición lo suficientemente alto obtendrás beneficios. Dejalos caer muy bajo y tendrás problemas
+mods.tips.tips.9=¡Nuevos items son revelados cuando llegas a nuevas Eras!
+mods.tips.tips.10=¡Las menas son reveladas cuando llegas a nuevas Eras!
+mods.tips.tips.11=¿No encuentras la forma de obtener un item? Checa el JEI a la derecha de tu inventario. Puede tener la respuesta.
+mods.tips.tips.12=Te puedes mover rápido en ciertos bloques como en el Camino de Cesped.
+mods.tips.tips.13=Las menas se acienta sobre grandes vetas. Busca chunks con vetas al encontrar muestras en la superficie.
+mods.tips.tips.14=Usa el F7 para ver los niveles de luz en el suelo y F9 para ver los bordes de chunks
+mods.tips.tips.15=¿Quieres llegar a la siguiente Era? Sigue los logros
+mods.tips.tips.16=Las dimensiones solo son accesibles si accedes a nuevas Eras.
+mods.tips.tips.17=Algunos bloques son indistinguibles de otros. Pero seran reveladas sus verdaderas formas en nuevas Eras. Siempre regresa y checa areas que ya has explorado para ver si hay algo nuevo.
+mods.tips.tips.18=La duplicación de menas estara disponible en la Era Industrial.
+mods.tips.tips.19=Asegurate que Glen esta fuera de tu parque para que pueda comer y dormir.
+mods.tips.tips.20=No todos los enemigos aparecen al principio del pack. Algunos empezaran a aparecer después.
+mods.tips.tips.21=¿Necesitas encontrar una veta de una mena en un chunk? Usa ítems del mod Prospectors para ello.
+mods.tips.tips.22=Las coordenadas en la pantalla del F3 no estan disponibles. Desbloquea y usa la info de accesorios que vas creando para ver esta información o usa marcadores para encontrar tu camino.
+mods.tips.tips.23=Si mueres un Death Compass aparecera en tu inventario y te indicara donde esta tu tumba.
+mods.tips.tips.24=Agachate sobre tu tumba para recuperar tus ítems.
+mods.tips.tips.25=Los Rafts son una forma temprana de transporte. Solo que son un poco debiles y lentos.
+mods.tips.tips.26=La salsa de queso Morney (hace 1 galón); 2 cuartos de leche; 2 cuartos de crema espesa; el roux (250g de mantequilla/250g de harina); sachet (laurel, granos de pimienta, tomillo); salsa de dijon (al gusto); queso comte rallado (un montón/al gusto); añade leche/crema/sachet a la taza (remueve el sachet) luego reduce el calor y hierve a fuego lento to simmer y añade el roux (debe estar dorado) y bate hasta que lo absorba añade el dijon y queso rallado al gusto
+mods.tips.tips.27=Sostener la tecla Drawer en tu mano libre automáticamente bloquea un nuevo lugar en el Storage Drawer
+mods.tips.tips.28=Intenta que las cuerdas usadas para dar poder con los caballos no crucen los bordes de los chunks
