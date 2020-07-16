@@ -23,7 +23,7 @@ advancements.stage0.buffalo.description=El buffalo provee de valiosos recursos a
 
 
 advancements.stage0.charcoal.title=Forzando a la Suerte
-advancements.stage0.charcoal.description=Funciona el carbón vegetal en un bloque más grande usando la prensa.
+advancements.stage0.charcoal.description=Fusiona el carbón vegetal en un bloque más grande usando la prensa.
 
 
 advancements.stage0.chestupgrade.title=Actualizando el Almacenamiento
@@ -372,36 +372,36 @@ advancements.stage2.astable2.title=Starlight Upgrade
 advancements.stage2.astable2.description=Upgrade the Luminous table the next tier. Aside from the table, you'll need to construct a structure to begin the crafting process. Consult the Astral Sorcery Journal's Exploration section
 
 
-advancements.stage2.betweenlands.title=The Betweenlands
-advancements.stage2.betweenlands.description=Locate a Druid Circle in Swamp Biome, kill the druids, and use their talisman pieces to create the Swamp Talisman. Click the Talisman on a placed Sapling to create the large portal to the Betweenlands
+advancements.stage2.betweenlands.title=Las Betweenlands
+advancements.stage2.betweenlands.description=Encuentra un Circulo Druida en un Bioma de Pantal, mata los druida, y usa las piezas del talisman para crear un Swamp Talisman. Clicka el Talisman en un Brote de Árbol que hayas colocado para crear el portal grande del Betweenlands.
 
 
 advancements.stage2.biomealyzer.title=What's My Biome?
 advancements.stage2.biomealyzer.description=Use a Biomealyzer to learn the name of the biome you're currently in
 
 
-advancements.stage2.bucket.title=They Be Stealin' My Bucket
-advancements.stage2.bucket.description=Now that you have acquired Iron, use your smeltery to cast an Iron Bucket
+advancements.stage2.bucket.title=Ellos se la Pasan Robando mi Cubo
+advancements.stage2.bucket.description=Ahora que has conseguido Hierro, usa tu fundidora para moldear un Cubo de Hierro
 
 
 advancements.stage2.carminitereactor.title=Reactor Idle
 advancements.stage2.carminitereactor.description=You are going to need a Carminite Reactor to create your first engine. Locate the Reactor either by searching the Ur-Ghast Tower in the Twilight Forest or by crafting using resource found in the Twilight
 
 
-advancements.stage2.compass.title=Get Lost, Oh Wait...
-advancements.stage2.compass.description=A Compass will help you determine your X and Z coordinates
+advancements.stage2.compass.title=Extraviado, Oh Espera...
+advancements.stage2.compass.description=Una Brujula te ayudara a encontrar tus coordenadas en X y Z
 
 
 advancements.stage2.conpaper.title=Filling in the Gaps
 advancements.stage2.conpaper.description=Acquire Constellation Paper to fill the information in your Astral Sorcery Journal. Right-click while holding the Astral Sorcery Journal to store your Constellation Paper to save space
 
 
-advancements.stage2.controller.title=Controlling
-advancements.stage2.controller.description=If flint or bone tools aren't cutting it any longer, you'll need a Smeltery. After you place all your smeltery blocks place a Smeltery Controller to complete the structure and the advancement
+advancements.stage2.controller.title=Controlando
+advancements.stage2.controller.description=Si las herramientas de pedernal o hueso no estan funcionando adecuadamente, vas a necesitar una Fundidora. After you place all your smeltery blocks place a Smeltery Controller to complete the structure and the advancement
 
 
-advancements.stage2.depth.title=Into The Depths
-advancements.stage2.depth.description=Craft a Depth Meter to better monitor your Y level
+advancements.stage2.depth.title=En las Profundidades
+advancements.stage2.depth.description=Fabrica un Depth Meter para tener una mejor idea sobre en que altura estas
 
 
 advancements.stage2.dowsingrod.title=Upgrade Your Prospects
@@ -452,8 +452,8 @@ advancements.stage2.nuggetcast.title=Casting a Nugget
 advancements.stage2.nuggetcast.description=To obtain a Nugget Cast you will need to create a Stone Nugget with a block of Stone on the Stone Anvil
 
 
-advancements.stage2.paper.title=Papers Please
-advancements.stage2.paper.description=Evolve your paper production technique by making Minecraft Paper
+advancements.stage2.paper.title=Papeles Por Favor
+advancements.stage2.paper.description=Evoluciona tu tecnica de produción de papel, fabricando Papel del Minecraft Vanilla
 
 
 advancements.stage2.piston.title=Push It Real Good
@@ -468,12 +468,12 @@ advancements.stage2.rockcrystal.title=Rock, Paper, Crystals
 advancements.stage2.rockcrystal.description=Rock Crystals are important for Astral Sorcery progression. Find a Rock Crystal sample on the surface and dig down to find the ore between Y3 and Y18
 
 
-advancements.stage2.root.title=Age 2
-advancements.stage2.root.description=Welcome to the next age!
+advancements.stage2.root.title=Era 2
+advancements.stage2.root.description=¡Bienvenido a la siguiente Era!
 
 
-advancements.stage2.sealantern.title=Under Da Sea Lantern
-advancements.stage2.sealantern.description=The Tier 3 Blood Magic Altar caps can be made from Sea Lanterns or Glowstone. Locate Prismarine from an Ocean Monument or as a drop from the Dark Forest Maze in the Twilight Forest
+advancements.stage2.sealantern.title=Bajo Esta Lampara del Mar
+advancements.stage2.sealantern.description=Las capuchas de nivel 3 del Altar del Blood Magic pueden ser fabricadas con Lamparas del Mar o Piedra Luminosa. Encuentra Prismarina de un Monumento Oceánico o también lo puedes conseguir como un drop del Bosque Oscuro del Twilight Forest
 
 
 advancements.stage2.skywave.title=Starlight Geolocation
@@ -493,7 +493,7 @@ advancements.stage2.stevescarts.description=You have discovered the power of com
 
 
 advancements.stage2.stopwatch.title=Speedrunner
-advancements.stage2.stopwatch.description=The Stopwatch will display information on the player's motion
+advancements.stage2.stopwatch.description=El Stopwatch muestra información sobre el movimiento de un jugador
 
 
 advancements.stage2.tcontable1.title=Tinkerer
@@ -517,19 +517,19 @@ advancements.stage2.wateringcan.description=If you're tired of waiting for crops
 
 
 advancements.stage2.weedwoodsticks.title=Weedwood
-advancements.stage2.weedwoodsticks.description=Weedwood sticks are found by breaking Weedwood Bushes. Commonly found around the Betweenlands. Note, they are not available by chopping wood
+advancements.stage2.weedwoodsticks.description=Los palitos de Weedwood se encuentran rompiendo Arbustos de Weedwood. Se encuentra por cualquier sitio de las Betweenlands. Nota, estos palitos no se obtienen talando madera
 
 
-advancements.stage2.weedwoodsword.title=The Betweenlands
-advancements.stage2.weedwoodsword.description=Tools brought into the Betweenlands from other dimensions will not be effective. You'll need to craft new tools and weapons to progress. Note, This advancement specifically requires you to craft a Weedwood Sword to complete
+advancements.stage2.weedwoodsword.title=Las Betweenlands
+advancements.stage2.weedwoodsword.description=Las herramientas traídas a las Betweenlands de otras dimensiones no son muy efectivas. Necesitas fabricar nuevas herramientas y armas para poder progresar. Nota, este logro necesita que se fabrique especificamente una Weedwood Sword para ser completado
 
 
 advancements.stage2.weird.title=Top 10 Weirdest Gadgets
 advancements.stage2.weird.description=If you would like a chunk loader, craft a Weirding Gadget and place it down to load a 3x3 area of chunks
 
 
-advancements.stage2.wool.title=Wooly Blankets
-advancements.stage2.wool.description=Craft some wool from Fleece and Wicker
+advancements.stage2.wool.title=Mantas de Lana
+advancements.stage2.wool.description=Fábrica algo de lana usando Fleece y Mimbre
 
 
 # Stage 3
