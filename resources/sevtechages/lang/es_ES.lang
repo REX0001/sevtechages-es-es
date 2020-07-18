@@ -404,8 +404,8 @@ advancements.stage2.depth.title=En las Profundidades
 advancements.stage2.depth.description=Fabrica un Depth Meter para tener una mejor idea sobre en que altura estas
 
 
-advancements.stage2.dowsingrod.title=Upgrade Your Prospects
-advancements.stage2.dowsingrod.description=Craft Tough Dowsing Rod to help locate a larger variety of ores. You can use it to find ore within 48 blocks of where you click
+advancements.stage2.dowsingrod.title=Actualiza tus Prospeciones
+advancements.stage2.dowsingrod.description=Fábrica una Tough Dowsing Rod para ayudarte a encontrar una gran variedad de menas. Puedes usarla para encontrar menas que esten a 48 bloques de donde estas
 
 
 advancements.stage2.drawertable.title=A Place for My Things
@@ -416,40 +416,40 @@ advancements.stage2.enderman.title=Defeat the Endermenace!
 advancements.stage2.enderman.description=Endermen have begun spawning in the world, slay them to obtain their Ender Dust
 
 
-advancements.stage2.extendedcraftingbasic.title=Extended Crafting: Iron
-advancements.stage2.extendedcraftingbasic.description=Craft the Basic Crafting Table from Extended Crafting for more complex recipes
+advancements.stage2.extendedcraftingbasic.title=Fabricación Extendida: Hierro
+advancements.stage2.extendedcraftingbasic.description=Fábrica la Basic Crafting Table del Extend Crafting para poder realizar recetas más complejas
 
 
-advancements.stage2.glass.title=Glass Blowing
-advancements.stage2.glass.description=Create glass by first melting Sand in the Melter or Smeltery and pouring it into a basin
+advancements.stage2.glass.title=Soplado de Vidrio
+advancements.stage2.glass.description=Crea cristal derritiendo Arena en el Melter o en la Fundidora y vertiendolo en el Basin
 
 
-advancements.stage2.gold.title=Gold Standard
-advancements.stage2.gold.description=Find a Gold surface sample and dig for Gold! The ore is located between Y5 and Y40
+advancements.stage2.gold.title=Estándar Dorado
+advancements.stage2.gold.description=Busca una muestra superficial de Oro y cava debajo para ¡encontrar Oro! Las menas estan localizado entre las capas 5 y 40
 
 
-advancements.stage2.iron.title=Iron Sights
-advancements.stage2.iron.description=Find a Hematite surface sample and dig for Iron! The ore is located between Y32 and Y60
+advancements.stage2.iron.title=Miras de Hierro
+advancements.stage2.iron.description=Busca muestras de Hematite y cava debajo para ¡encontrar Hierro! Las menas estan localizadas entre la capa 32 y la 60
 
 
-advancements.stage2.lapis.title=Roses are Red, Lapis is Blue
-advancements.stage2.lapis.description=Find a Lapis surface sample and dig for Lapis! The ore is located between Y10 and Y38
+advancements.stage2.lapis.title=Las Rosas son Rojas, El Lapis es Azul
+advancements.stage2.lapis.description=Busca muestras de Lapislázuli en la superficie y cava por Lapis! La mena esta entre las capas 10 y 38
 
 
 advancements.stage2.lightwell.title=Liquify
 advancements.stage2.lightwell.description=The Lightwell from Astral Sorcery will allow certain items to be liquefied into Liquid Starlight
 
 
-advancements.stage2.mapping.title=Advanced Mapping
-advancements.stage2.mapping.description=Upgrade your current map to something much more advanced by eating an Iron Apple. Note, this is an early unlock and does not have to be completed. The reward can be granted in a later stage
+advancements.stage2.mapping.title=Mapeo Avanzado
+advancements.stage2.mapping.description=Actualiza tu mapa actual a uno mucho más avanzado comiendo una Manzana de Hierro. Nota, este es una manera rápida de desbloquear el mapa avanzado, pero no necesario para conseguirlo. Esta recompensa te sera garantizada en la siguiente era
 
 
-advancements.stage2.market.title=The Market
-advancements.stage2.market.description=Use the Farming for Blockheads Market to order Seeds and Saplings
+advancements.stage2.market.title=El Mercado
+advancements.stage2.market.description=Usa el Market del Blockheads para comprar Semillas y Brotes de Arbol
 
 
-advancements.stage2.nuggetcast.title=Casting a Nugget
-advancements.stage2.nuggetcast.description=To obtain a Nugget Cast you will need to create a Stone Nugget with a block of Stone on the Stone Anvil
+advancements.stage2.nuggetcast.title=Moldea una Pepita
+advancements.stage2.nuggetcast.description=Para obtener un Molde de Pepita necestas crear una Stone Nugget con un bloque de Piedra en un Stone Anvil
 
 
 advancements.stage2.paper.title=Papeles Por Favor
@@ -464,8 +464,8 @@ advancements.stage2.resonatingwand.title=Resonation
 advancements.stage2.resonatingwand.description=You'll need a Resonating Wand from Astral Sorcery to continue your journey
 
 
-advancements.stage2.rockcrystal.title=Rock, Paper, Crystals
-advancements.stage2.rockcrystal.description=Rock Crystals are important for Astral Sorcery progression. Find a Rock Crystal sample on the surface and dig down to find the ore between Y3 and Y18
+advancements.stage2.rockcrystal.title=Roca, Papel, Cristales
+advancements.stage2.rockcrystal.description=Los Rock Crystals son importantes para avanzar en el Astral Sorcery. Busca una muestra de Rock Crystal en la superficie y cava hasta las capas 3 y 18 para encontrar una mena
 
 
 advancements.stage2.root.title=Era 2
@@ -480,12 +480,12 @@ advancements.stage2.skywave.title=Starlight Geolocation
 advancements.stage2.skywave.description=The Luminous Crafting Table requires the Starlight meter to be filled before a crafting operation can be completed. Craft and use the Fosic Resonator to locate an area in the world that is rich in starlight to craft with. You'll have a difficult time finding it during the daytime. It's best to wait until night
 
 
-advancements.stage2.smeltertank.title=Smelter Tank
-advancements.stage2.smeltertank.description=Solid fuels only get you so far. Craft and place a Porcelain or Seared Tank beneath your melter to melt Iron and other materials needing higher temperatures. Note, you'll need to let the current fuel source run out or break/replace the melter to see the new temperature
+advancements.stage2.smeltertank.title=Tanque de Fundición
+advancements.stage2.smeltertank.description=Los combustibles solidos son una manera de llegar más lejos.Fábrica y coloca un Porcelain Tank o un Seared Tank debajo de tu Melter para fundir hierro y otros materiales que necesitan temperaturas más altas. Nota, necesitas dejar que tu fuente de combustible antigua se agote antes para poder ver la nueva temperatura, también puedes remplazar el Melter y volverlo a colocar para que se actualice
 
 
-advancements.stage2.starpowder.title=Star Power
-advancements.stage2.starpowder.description=Stardust can be found when breaking Rock Crystal Samples, don't forget to mark your map because the samples will also indicate a vein of Rock Crystal Ore beneath! Once your Astral Sorcery infrastructure is complete you can begin making them
+advancements.stage2.starpowder.title=Poder de las Estrellas
+advancements.stage2.starpowder.description=El Stardust puede ser encontrado al romper muestras de la Rock Crystal, no olvides marcar en el mapa el sitio donde encuentres las muestras porque allí debajo ¡habra vetas de menas de Rock Crystal! Una vez completes la infrastructura del Astral Sorcery podras comenzar a hacerlos
 
 
 advancements.stage2.stevescarts.title=Train-ing with Coal
@@ -512,8 +512,8 @@ advancements.stage2.twilight.title=Enter the Twilight
 advancements.stage2.twilight.description=Enter the Twilight Forest dimension to continue your journey. Fill a 2x2 hole with water, surround it with plants, saplings, or flowers and throw an Astral Sorcery Starmetal Ingot into the water to create the portal
 
 
-advancements.stage2.wateringcan.title=Fast Farm
-advancements.stage2.wateringcan.description=If you're tired of waiting for crops to grow craft a Watering Can
+advancements.stage2.wateringcan.title=Granjeando Rápido
+advancements.stage2.wateringcan.description=Si estas cansado de esperar que tus cultivos crezcan, fábrica una Watering Can
 
 
 advancements.stage2.weedwoodsticks.title=Weedwood
