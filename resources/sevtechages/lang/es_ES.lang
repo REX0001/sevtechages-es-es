@@ -392,8 +392,8 @@ advancements.stage2.compass.title=Extraviado, Oh Espera...
 advancements.stage2.compass.description=Una Brujula te ayudara a encontrar tus coordenadas en X y Z
 
 
-advancements.stage2.conpaper.title=Filling in the Gaps
-advancements.stage2.conpaper.description=Acquire Constellation Paper to fill the information in your Astral Sorcery Journal. Right-click while holding the Astral Sorcery Journal to store your Constellation Paper to save space
+advancements.stage2.conpaper.title=Rellanando Huecos
+advancements.stage2.conpaper.description=Adquiere Constellation Paper para llenar de información tu Diario del Astral Sorcery. Da clic derecho mientras tienes en tu mano el Diario del Astral Sorcery para guardar tu Constellation Paper y guardar espacio en tu inventario
 
 
 advancements.stage2.controller.title=Controlando
@@ -412,8 +412,8 @@ advancements.stage2.drawertable.title=A Place for My Things
 advancements.stage2.drawertable.description=Use the Framing Table to build a custom Storage Drawers using Framed Drawers and blocks you want as decoration
 
 
-advancements.stage2.enderman.title=Defeat the Endermenace!
-advancements.stage2.enderman.description=Endermen have begun spawning in the world, slay them to obtain their Ender Dust
+advancements.stage2.enderman.title=¡Derrota la endermenaza!
+advancements.stage2.enderman.description=Los Enderman han empezado a aparecer en el mundo, derrotalos para empezar a obtener Polvo de Ender
 
 
 advancements.stage2.extendedcraftingbasic.title=Fabricación Extendida: Hierro
@@ -460,8 +460,8 @@ advancements.stage2.piston.title=Push It Real Good
 advancements.stage2.piston.description=Need to push items around?! Find a Piston in the Ur-Ghast Tower located in the Twilight Forest or locate the resources to craft it
 
 
-advancements.stage2.resonatingwand.title=Resonation
-advancements.stage2.resonatingwand.description=You'll need a Resonating Wand from Astral Sorcery to continue your journey
+advancements.stage2.resonatingwand.title=Resonación
+advancements.stage2.resonatingwand.description=Necesita una Resonating Wand del Astral Sorcery para continuar tu viaje
 
 
 advancements.stage2.rockcrystal.title=Roca, Papel, Cristales
@@ -476,8 +476,8 @@ advancements.stage2.sealantern.title=Bajo Esta Lampara del Mar
 advancements.stage2.sealantern.description=Las capuchas de nivel 3 del Altar del Blood Magic pueden ser fabricadas con Lamparas del Mar o Piedra Luminosa. Encuentra Prismarina de un Monumento Oceánico o también lo puedes conseguir como un drop del Bosque Oscuro del Twilight Forest
 
 
-advancements.stage2.skywave.title=Starlight Geolocation
-advancements.stage2.skywave.description=The Luminous Crafting Table requires the Starlight meter to be filled before a crafting operation can be completed. Craft and use the Fosic Resonator to locate an area in the world that is rich in starlight to craft with. You'll have a difficult time finding it during the daytime. It's best to wait until night
+advancements.stage2.skywave.title=Estrellas Geolocalizadas
+advancements.stage2.skywave.description=La Luminous Crafting Table requiere que el medidor de Starlight este lleno antes de poder empezar a fabricar. Fábrica y usa el Fosic Resonator para localizar zonas en el mundo que esten ricas de luz estelar que es útil para fabricar. Sera díficil para ti encontrar esta luz si es de día. Es mejor esperar hasta la noche
 
 
 advancements.stage2.smeltertank.title=Tanque de Fundición
@@ -496,16 +496,16 @@ advancements.stage2.stopwatch.title=Speedrunner
 advancements.stage2.stopwatch.description=El Stopwatch muestra información sobre el movimiento de un jugador
 
 
-advancements.stage2.tcontable1.title=Tinkerer
-advancements.stage2.tcontable1.description=Time to ditch your old Crafting Table and upgrade to a Crafting Station, it will let you keep your items in the grid and attach to nearby inventories
+advancements.stage2.tcontable1.title=Manipulador
+advancements.stage2.tcontable1.description=Es hora de tirar tu vieja Mesa de Trabajo y actualizala a una Estación de Crafteo, esta mesa mantendra tus ítems en la cuadrícula y se vinculan a inventarios cercanos
 
 
-advancements.stage2.tcontable2.title=Part Maker
-advancements.stage2.tcontable2.description=You can start working on replacing your tools by crafting a Stencil Table and Part Builder
+advancements.stage2.tcontable2.title=Fabricante de Piezas
+advancements.stage2.tcontable2.description=Puedes empezar a trabajar en remplazar tus herramientas fabricando una Mesa de Platillas y un Constructor de Partes
 
 
-advancements.stage2.tcontable3.title=Tool Station
-advancements.stage2.tcontable3.description=To build your new tools, you'll need a Tool Station
+advancements.stage2.tcontable3.title=Estación de Herramientas
+advancements.stage2.tcontable3.description=Para construir nuevas herramientas, necesitara la Estación de Herramientas
 
 
 advancements.stage2.twilight.title=Enter the Twilight
@@ -524,8 +524,8 @@ advancements.stage2.weedwoodsword.title=Las Betweenlands
 advancements.stage2.weedwoodsword.description=Las herramientas traídas a las Betweenlands de otras dimensiones no son muy efectivas. Necesitas fabricar nuevas herramientas y armas para poder progresar. Nota, este logro necesita que se fabrique especificamente una Weedwood Sword para ser completado
 
 
-advancements.stage2.weird.title=Top 10 Weirdest Gadgets
-advancements.stage2.weird.description=If you would like a chunk loader, craft a Weirding Gadget and place it down to load a 3x3 area of chunks
+advancements.stage2.weird.title=Top 10 de Artilugios Extraños
+advancements.stage2.weird.description=Si quieres tener un cargador de chunks, fábrica un Weirding Gadget y colocalo para empezar a cargar una zona de chunks de 1X1
 
 
 advancements.stage2.wool.title=Mantas de Lana
