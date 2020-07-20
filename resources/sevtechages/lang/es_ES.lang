@@ -368,24 +368,24 @@ advancements.stage1.woodbasin.description=¿Buscas una forma más eficiente de h
 
 
 # Stage 2
-advancements.stage2.astable2.title=Starlight Upgrade
-advancements.stage2.astable2.description=Upgrade the Luminous table the next tier. Aside from the table, you'll need to construct a structure to begin the crafting process. Consult the Astral Sorcery Journal's Exploration section
+advancements.stage2.astable2.title=Luz Estelar Actualizada
+advancements.stage2.astable2.description=Sube de nivel tu Luminous Table. Aparte de la mesa, necesitaras construir una para poder empezar a fábricar. Consulta el libro del Astral Sorcery Journal en la categoría de Exploration
 
 
 advancements.stage2.betweenlands.title=Las Betweenlands
 advancements.stage2.betweenlands.description=Encuentra un Circulo Druida en un Bioma de Pantal, mata los druida, y usa las piezas del talisman para crear un Swamp Talisman. Clicka el Talisman en un Brote de Árbol que hayas colocado para crear el portal grande del Betweenlands.
 
 
-advancements.stage2.biomealyzer.title=What's My Biome?
-advancements.stage2.biomealyzer.description=Use a Biomealyzer to learn the name of the biome you're currently in
+advancements.stage2.biomealyzer.title=¿Donde esta mi bioma?
+advancements.stage2.biomealyzer.description=Usa un Biomealyzer para saber el nombre del bioma donde estas parado
 
 
 advancements.stage2.bucket.title=Ellos se la Pasan Robando mi Cubo
 advancements.stage2.bucket.description=Ahora que has conseguido Hierro, usa tu fundidora para moldear un Cubo de Hierro
 
 
-advancements.stage2.carminitereactor.title=Reactor Idle
-advancements.stage2.carminitereactor.description=You are going to need a Carminite Reactor to create your first engine. Locate the Reactor either by searching the Ur-Ghast Tower in the Twilight Forest or by crafting using resource found in the Twilight
+advancements.stage2.carminitereactor.title=Reactor en Reposo
+advancements.stage2.carminitereactor.description=Vas a necesitar un Carminite Reactor para crear tu primera maquina. Puedes encontrarlo en una torre del Ur-Ghast en el Twilight Forest o lo puedes fábricar usando recursos que encuentres en el Twilight
 
 
 advancements.stage2.compass.title=Extraviado, Oh Espera...
@@ -408,8 +408,8 @@ advancements.stage2.dowsingrod.title=Actualiza tus Prospeciones
 advancements.stage2.dowsingrod.description=Fábrica una Tough Dowsing Rod para ayudarte a encontrar una gran variedad de menas. Puedes usarla para encontrar menas que esten a 48 bloques de donde estas
 
 
-advancements.stage2.drawertable.title=A Place for My Things
-advancements.stage2.drawertable.description=Use the Framing Table to build a custom Storage Drawers using Framed Drawers and blocks you want as decoration
+advancements.stage2.drawertable.title=Un Lugar para mis Cosas
+advancements.stage2.drawertable.description=Usa la Framing Table para contruir una versión modificada del Storage Drawers usando Framed Drawers y los bloques con los que quieras decorar
 
 
 advancements.stage2.enderman.title=¡Derrota la endermenaza!
@@ -436,8 +436,8 @@ advancements.stage2.lapis.title=Las Rosas son Rojas, El Lapis es Azul
 advancements.stage2.lapis.description=Busca muestras de Lapislázuli en la superficie y cava por Lapis! La mena esta entre las capas 10 y 38
 
 
-advancements.stage2.lightwell.title=Liquify
-advancements.stage2.lightwell.description=The Lightwell from Astral Sorcery will allow certain items to be liquefied into Liquid Starlight
+advancements.stage2.lightwell.title=Licuado
+advancements.stage2.lightwell.description=El Lightwell del Astral Sorcery te permite convertir ciertos ítems en líquido de Liquid Starlight
 
 
 advancements.stage2.mapping.title=Mapeo Avanzado
@@ -456,8 +456,8 @@ advancements.stage2.paper.title=Papeles Por Favor
 advancements.stage2.paper.description=Evoluciona tu tecnica de produción de papel, fabricando Papel del Minecraft Vanilla
 
 
-advancements.stage2.piston.title=Push It Real Good
-advancements.stage2.piston.description=Need to push items around?! Find a Piston in the Ur-Ghast Tower located in the Twilight Forest or locate the resources to craft it
+advancements.stage2.piston.title=Empuja Bien
+advancements.stage2.piston.description=¡¿Necesitas mover ítems por ahí?! Buesca un Piston en la torre del Ur-Ghast del Twilight Forest o encuentra los recursos para fabricarlo tu mismo
 
 
 advancements.stage2.resonatingwand.title=Resonación
@@ -488,8 +488,8 @@ advancements.stage2.starpowder.title=Poder de las Estrellas
 advancements.stage2.starpowder.description=El Stardust puede ser encontrado al romper muestras de la Rock Crystal, no olvides marcar en el mapa el sitio donde encuentres las muestras porque allí debajo ¡habra vetas de menas de Rock Crystal! Una vez completes la infrastructura del Astral Sorcery podras comenzar a hacerlos
 
 
-advancements.stage2.stevescarts.title=Train-ing with Coal
-advancements.stage2.stevescarts.description=You have discovered the power of combustion! Craft a Coal Engine
+advancements.stage2.stevescarts.title=En tren-ando con Carbón
+advancements.stage2.stevescarts.description=¡Haz descubierto el poder de la combustión! Fábrica una Coal Engine
 
 
 advancements.stage2.stopwatch.title=Speedrunner
@@ -508,8 +508,8 @@ advancements.stage2.tcontable3.title=Estación de Herramientas
 advancements.stage2.tcontable3.description=Para construir nuevas herramientas, necesitara la Estación de Herramientas
 
 
-advancements.stage2.twilight.title=Enter the Twilight
-advancements.stage2.twilight.description=Enter the Twilight Forest dimension to continue your journey. Fill a 2x2 hole with water, surround it with plants, saplings, or flowers and throw an Astral Sorcery Starmetal Ingot into the water to create the portal
+advancements.stage2.twilight.title=En el Crepúsculo
+advancements.stage2.twilight.description=Entra en la dimesión del Twilight Forest para continuar tu viaje. Llena un hoyo de 2x2 con agua, rodeado de plantas, brotes o flores y lanza en el agua un lingote de Starmetal del Astral Sorcery para crear el portal
 
 
 advancements.stage2.wateringcan.title=Granjeando Rápido
@@ -537,7 +537,7 @@ advancements.stage3.amethyst.title=Nether Amethyst Ore
 advancements.stage3.amethyst.description=A rare gem found in the Nether. Can be located using the Age 3 and above Prospectors
 
 
-advancements.stage3.bauxite.title=Bauxite Ore
+advancements.stage3.bauxite.title=Menas de Bauxite
 advancements.stage3.bauxite.description=Find a Bauxite surface sample and dig for Aluminum! The ore is located between Y45 and Y70
 
 
